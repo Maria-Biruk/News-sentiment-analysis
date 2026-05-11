@@ -1,37 +1,56 @@
-# News Sentiment Analysis
+# 📊 News Sentiment Analysis & Stock Market Correlation
 
-## Predicting Stock Price Movement Using Financial News Sentiment
+## 📌 Overview
 
-This project analyzes financial news headlines and historical stock price data to understand how market sentiment influences stock price movements.
+This project analyzes the relationship between financial news sentiment and stock price movements using Natural Language Processing and technical indicators.
 
-**The** main objective is to apply Natural Language Processing (NLP) techniques to financial news headlines, generate sentiment scores, compute technical indicators from historical stock prices, and measure the statistical relationship between sentiment and stock returns.
+---
 
-This project is part of the Week 1 Challenge for the 10 Academy Artificial Intelligence Mastery Program.
+## 🎯 Objectives
 
-## Project Tasks
+- Perform Exploratory Data Analysis (EDA) on financial news
+- Apply technical indicators on stock data
+- Extract sentiment from news headlines
+- Measure correlation between sentiment and stock returns
 
-- Exploratory Data Analysis (EDA)
-- Sentiment Analysis on Financial News Headlines
-- Technical Indicator Analysis using TA-Lib and PyNance
-- Correlation Analysis between News Sentiment and Stock Returns
-- Investment Strategy Recommendations
+---
 
-## Tools and Technologies
+## 📂 Project Structure
+
+- Task 1: Exploratory Data Analysis (EDA)
+- Task 2: Technical Analysis (SMA, RSI, MACD)
+- Task 3: Sentiment Analysis & Correlation
+
+---
+
+## 🛠️ Tools & Libraries
 
 - Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
+- Pandas, NumPy
+- Matplotlib, Seaborn
 - NLTK
-- TextBlob
-- TA-Lib
-- PyNance
-- Git and GitHub
+- TA-Lib / ta
 - Jupyter Notebook
-- Visual Studio Code
 
-## Author
+---
 
-Week 1 Challenge Submission — 10 Academy
+## 📈 Key Insights
+
+- News sentiment shows weak/moderate correlation with stock returns
+- Technical indicators help identify trends and momentum
+- Financial markets are influenced by multiple external factors beyond news
+
+---
+
+## 🚀 How to Run
+
+1. Clone repository
+2. Install requirements
+3. Open notebooks in Jupyter / VS Code
+4. Run step by step
+
+---
+
+## 👤 Author
+
+Data Science Project – 10 Academy Training
