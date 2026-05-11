@@ -5,3 +5,4 @@ seaborn
 scikit-learn
 nltk
 ta
+pywinpty==3.0.3; sys_platform == "win32"
